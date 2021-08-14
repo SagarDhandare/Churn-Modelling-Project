@@ -5,7 +5,9 @@ Pickle file is more than 110 MB and not able to upload it on github because of r
 
 Here I provide direct link of pickle file to download it.
 
-[Pickle File](https://drive.google.com/file/d/1Lf4JxrPLjx9ZG67Fw1RaDWSrt750my7V/view?usp=sharing)
+Click here to donload : [Pickle File](https://drive.google.com/file/d/1Lf4JxrPLjx9ZG67Fw1RaDWSrt750my7V/view?usp=sharing)
+
+As pickle file is not able to upload, We are not able to create Churn Modelling End-to-End project.
 
 ## Dataset
 [Churn Modelling](https://www.kaggle.com/c/churn-modelling/)
