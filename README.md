@@ -6,7 +6,7 @@
 [Churn Modelling](https://www.kaggle.com/c/churn-modelling/)
 
 ## Dataset Description
-### What is Churn Rate?
+#### What is Churn Rate?
 The churn rate is the percentage of subscribers to a service who discontinue their subscriptions to the service within a given time period. For a company to expand its clientele, its growth rate, as measured by the number of new customers, must exceed its churn rate.
 
 ## Problem Statement
