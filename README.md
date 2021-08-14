@@ -6,7 +6,7 @@
 [Churn Modelling](https://www.kaggle.com/c/churn-modelling/)
 
 ## Dataset Description
-#### What is Churn Rate?
+### What is Churn Rate?
 The churn rate is the percentage of subscribers to a service who discontinue their subscriptions to the service within a given time period. For a company to expand its clientele, its growth rate, as measured by the number of new customers, must exceed its churn rate.
 
 ## Problem Statement
@@ -16,3 +16,18 @@ This is a Classification Problem in which you'll classify a customer based on hi
 
 ## About the Dataset:
 The dataset is well-labeled to explain all its columns. The Target Variable is EXITED(0/1) which you have to predict.
+
+## Tech Stack
+- Python
+- Machine Learning
+- Pandas
+- Numpy
+- Scikit-learn
+- Google Colab
+
+## Feedback
+If you have any feedback, please reach out to me at [LinkedIn](https://www.linkedin.com/in/sagar-dhandare-a401271a3/)
+
+Please do ⭐ the repository, if you like this 😊
+
+Thank you ❤
