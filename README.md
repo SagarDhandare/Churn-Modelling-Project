@@ -1,5 +1,9 @@
 # Churn-Modelling-Project
 
+## Pickle File
+Pickle file is more than 110 MB and not able to upload it on github because of github rules and regulations. 
+Here I provide direct link of pickle file to download it.
+
 [Pickle File](https://drive.google.com/file/d/1Lf4JxrPLjx9ZG67Fw1RaDWSrt750my7V/view?usp=sharing)
 
 ## Dataset
